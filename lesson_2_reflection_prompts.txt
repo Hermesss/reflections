@@ -2,7 +2,7 @@ What happens when you initialize a repository? Why do you need to do it?
 When You create new git repo folder .git is created containing all the metadata about changes in files listed in git. You need to do this to start to track changes in your project or files.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
+The staging directory differs from working directory and repository by keeping the temporary data, and posibility to add several files at different time.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
